@@ -7,6 +7,7 @@ We are not formally coordinated! We operate as a [collective](https://en.wikiped
 - Join the [discussions](https://github.com/orgs/JAXtronomy/discussions)
 - Read or contribute a [tutorial, guide, or tip](https://github.com/JAXtronomy/jax-astro-guide)
 - Contribute your JAX-based astronomy software to the [JAXtronomy awesome](https://github.com/JAXtronomy/awesome-JAXtronomy) list
+- See what happened at our first community meeting [October 2024](https://docs.google.com/presentation/d/1YGwDofGlNyxr4C0W7K0Kh3JQB2MHD2_1AHOuqZgs77g)
 - Help build out astronomy and scientific Python infrastructure in JAX:
     - [spexial](https://github.com/JAXtronomy/spexial) — more [scipy.special](https://docs.scipy.org/doc/scipy/reference/special.html) functions
     - ...
