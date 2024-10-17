@@ -1,6 +1,17 @@
-## JAXtronomy
+# JAXtronomy
 
 A community of JAX users and developers working on Astronomy research.
+
+We are not formally coordinated! We operate as a [collective](https://en.wikipedia.org/wiki/Collective), so anyone can get involved.
+
+- Join the [discussions](https://github.com/orgs/JAXtronomy/discussions)
+- Read or contribute a [tutorial, guide, or tip](https://github.com/JAXtronomy/jax-astro-guide)
+- Contribute your JAX-based astronomy software to the [JAXtronomy awesome](https://github.com/JAXtronomy/awesome-JAXtronomy) list
+- Help build out astronomy and scientific Python infrastructure in JAX:
+    - [spexial](https://github.com/JAXtronomy/spexial) — more [scipy.special](https://docs.scipy.org/doc/scipy/reference/special.html) functions
+    - ...
+
+## 
 
 <!--
 
